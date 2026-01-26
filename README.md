@@ -57,5 +57,5 @@ Open to remote collaboration in:
 - Linguistic and bilingual (EN/ES) model evaluation
 
 **Email:** alejandro.remeseiro(at)gmail.com
-**LinkedIn:** https://shorturl.at/1qXwc  
+**LinkedIn:** https://www.linkedin.com/in/alejandro-remeseiro-fern%C3%A1ndez-44a02427/
 **Upwork profile:** https://www.upwork.com/freelancers/~015bb79bd0df3c5e7f  
