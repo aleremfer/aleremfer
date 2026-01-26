@@ -1,57 +1,61 @@
-## 👋 Alejandro Remeseiro Fernández
+# 👋 Alejandro Remeseiro Fernández
 
-Prompt Engineering · LLM Evaluation · AI Quality Assurance · Ethics, Factuality & Bias
+**LLM Semantic QA · Cultural & Factuality Evaluation · AI Language Behavior Analysis**
 
-🧠 About Me
+---
 
-I'm a QA specialist and evaluator of large language models (LLMs), with a strong foundation in multilingual proofreading, content quality, and applied AI ethics. Over the past 14+ years, I've worked with international clients to improve linguistic precision and clarity, and in recent years, I've pivoted into generative AI—designing, testing, and evaluating prompts for large-scale language models.
+## 🧠 About
 
-My approach combines editorial accuracy, linguistic sensitivity, and ethical review to ensure that AI-generated outputs are not just fluent, but also reliable, culturally aware, and aligned with human standards.
+I work on **qualitative evaluation of large language models**, focusing on failure modes that are often missed by standard benchmarks:
+semantic over-interpretation, cultural misrecognition, pragmatic errors, and confidence miscalibration.
 
-Outside the tech world, I hold a degree in History from the University of Alcalá (2006), and I was a Darmasiswa scholarship recipient in Indonesia, where I lived in Surabaya from 2009 to 2010. In my spare time, I'm also an experimental electronic music composer under monikers like Konsumprodukt, Elías Falken, Prosper Prowano, Eemian, and The Advanced Antenna. My discography includes around 45 works, ranging from elektro-bossa nova, IDM, and ambient textures to sound collage, field recordings, dark ambient, and noise. More info at: https://www.discogs.com/artist/148270-Konsumprodukt
+My background combines:
+- multilingual linguistic QA (EN / ES)
+- editorial accuracy and content evaluation
+- applied analysis of how LLMs interpret, infer, and sometimes overreach
 
-🔍 Current Focus
+Rather than optimizing prompts for output quality alone, I document **where and why models fail to understand language as humans do**, especially in culturally localized or implicit contexts.
 
-Prompt design and evaluation across major LLMs
+---
 
-Detection of factual inconsistencies and hallucinations
+## 🔍 Current Focus
 
-Multilingual quality assurance (English & Spanish)
+- Semantic and pragmatic QA for LLMs  
+- Cultural reference misrecognition (implicit humor, local context)  
+- Factuality vs. coherence analysis  
+- Model confidence calibration (when models should ask instead of infer)  
+- Spanish (Spain)–specific AI evaluation  
 
-Bias review and ethical alignment in generative systems
+---
 
-Applied explainable AI (XAI) and trustworthy AI frameworks
+## 📂 Featured Repositories
 
-🧰 Skills & Tools
+- **prompt-eval-cases**  
+  Real-world prompt cases highlighting semantic and cultural failure modes (EN/ES)
 
-Prompt Engineering (GPT, Claude, Gemini, Mistral)
+- **factuality-bias-review**  
+  Annotated examples of hallucinations, inconsistencies, and bias patterns
 
-AI QA & Content Evaluation (EN/ES)
+- **qa-linguistic-checklist**  
+  Practical QA criteria for multilingual AI content
 
-Bias & Factuality Analysis
+---
 
-XAI & Responsible AI Workflows
+## 🎓 Background (brief)
 
-SAP B1 (legacy experience for contextual understanding)
+- BA in History, University of Alcalá (2006)  
+- Darmasiswa scholar, Indonesia (Surabaya, 2009–2010)  
+- 14+ years working with international clients in linguistic quality and content review  
 
-📂 Featured Repositories (coming soon)
+---
 
-prompt-eval-cases: LLM prompt comparison across models (EN/ES)
+## 📫 Contact
 
-factuality-bias-review: Annotated outputs with hallucinations, inconsistencies, or ethical concerns
+Open to remote collaboration in:
+- LLM evaluation and QA
+- Semantic & cultural error analysis
+- Linguistic and bilingual (EN/ES) model evaluation
 
-qa-linguistic-checklist: Internal QA checklist for multilingual AI content
-
-readme-portafolio: Extended overview of my experience and project work
-
-📫 Contact
-
-Open to remote collaboration, particularly in:
-
-LLM evaluation and QA
-
-Responsible and ethical AI initiatives
-
-NLP workflows and multilingual prompt testing
-
-Connect with me on LinkedIn ( https://shorturl.at/1qXwc ) or feel free to request contact by email (alejandro.remeseiro(at)gmail.com )
+**Email:** alejandro.remeseiro(at)gmail.com
+**LinkedIn:** https://shorturl.at/1qXwc  
+**Upwork profile:** https://www.upwork.com/freelancers/~015bb79bd0df3c5e7f  
