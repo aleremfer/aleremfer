@@ -43,7 +43,16 @@ Some essays, reflections, and case studies live on my Substack:
 - **factuality-bias-review**  
   Annotated examples of hallucinations, inconsistencies, and bias patterns
 
+---  
 
+## 📄 Research & Publications
+
+- **Cultural Anchor Loss and Related Failure Patterns in Large Language Models**  
+  (Conceptual framework + empirical cases in Spanish popular culture)  
+  DOI: https://doi.org/10.5281/zenodo.19729897  
+
+- ORCID (research identity)  
+  https://orcid.org/0009-0000-1399-580X
 
 ---
 
